@@ -1,3 +1,6 @@
 This is test file for sample download 
 
-This another commit from local machine 
+This another commit from local machine
+
+
+This is a test for push auth
